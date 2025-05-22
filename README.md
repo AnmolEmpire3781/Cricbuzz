@@ -15,8 +15,7 @@ Objects/Entity required
  Scorecard
  Cricbuzz flow chart
 
-Wicket , match , innings
-
+Match, Innings,Scorecard,Team,Player,Ball,Over,Wicket,Scorecard
 A match is played between 2 teams
 There can be different match type.
 Each match has 2 or more innings
