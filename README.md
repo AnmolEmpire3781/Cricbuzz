@@ -5,16 +5,16 @@ To create cricbuzz dashboard
 
 Objects/Entity required
 
-Match
-Inning
-Scorecard
-Team
-Player
-Ball
-Over
-Wicker
-Scorecard
-Cricbuzz flow chart
+ Match
+ Inning
+ Scorecard
+ Team
+ Player
+ Ball
+ Over
+ Wicket
+ Scorecard
+ Cricbuzz flow chart
 
 A match is played between 2 teams
 There can be different match type.
