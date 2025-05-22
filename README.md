@@ -4,7 +4,7 @@ LLD of Cricbuzz
 To create cricbuzz dashboard
 
 Objects/Entity required
- Match
+ match
  Inning
  Scorecard
  Team
